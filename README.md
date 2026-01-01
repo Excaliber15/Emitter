@@ -32,3 +32,21 @@ physician-notetaker/
 ├── physician_notetaker.py   # Main pipeline script (NER + Sentiment + SOAP)
 ├── requirements.txt         # List of dependencies
 └── README.md                # Project documentation
+---
+
+### 🔬 System Execution & Pipeline Output
+
+<p align="center">
+  <img src="assets/physician_pipeline_output.png" alt="Physician Notetaker Pipeline Output" width="900"/>
+</p>
+
+---
+---
+
+### 📄 Generated SOAP Note & JSON Output
+
+<p align="center">
+  <img src="assets/soap_note_output.png" alt="Generated SOAP Note and Medical JSON Output" width="900"/>
+</p>
+
+---
